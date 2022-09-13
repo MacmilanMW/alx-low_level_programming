@@ -1,1 +1,2 @@
-My first README
+This is README file for this poject
+
