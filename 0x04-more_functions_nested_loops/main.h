@@ -7,7 +7,8 @@
  * Desc: prototypes for all functions
  */
 
-int _putchar(char c);
+int _isupper(int c);
+
 
 
 
